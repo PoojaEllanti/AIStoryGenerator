@@ -17,7 +17,8 @@ Create interactive fantasy, mystery, or sci-fi stories using generative AI (GPT-
 
 ## 📸 Screenshot
 
-![AI Dungeon Story Generator UI](https://i.imgur.com/H4Z6l6P.png) <!-- optional: add screenshot of your UI -->
+![image](https://github.com/user-attachments/assets/522a5583-2e56-4147-b9a4-3a9718c1c127)
+
 
 ---
 
